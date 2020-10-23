@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(233, 233 , 233);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.register
+{
+    background-color: white ;
+    height: 40rem;
+    width:70%;
+    margin: 5rem auto;
+    padding: 4%;
+    box-sizing: border-box;
+}
